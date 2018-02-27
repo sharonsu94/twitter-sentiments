@@ -12,10 +12,6 @@ In this assignment, you'll create a Python script to perform a sentiment analysi
 
 Your final output should provide a visualized summary of the sentiments expressed in Tweets sent out by the following news organizations: __BBC, CBS, CNN, Fox, and New York times__.
 
-![output_10_0.png](output_10_0.png)
-
-![output_13_1.png](output_13_1.png)
-
 The first plot will be and/or feature the following:
 
 * Be a scatter plot of sentiments of the last __100__ tweets sent out by each news organization, ranging from -1.0 to 1.0, where a score of 0 expresses a neutral sentiment, -1 the most negative sentiment possible, and +1 the most positive sentiment possible.
@@ -52,11 +48,7 @@ The bot receives tweets via mentions and in turn performs sentiment analysis on 
 
 For example, when a user tweets, __"@PlotBot Analyze: @CNN,"__ it will trigger a sentiment analysis on the CNN twitter feed. 
 
-A plot from the sentiment analysis is then tweeted to the PlotBot5 twitter feed. See below for examples of scatter plots you will generate:
-
-![@juanitasoranno.png](@juanitasoranno.png)
-![@nancypwong.png](@nancypwong.png)
-![nytimes.png](nytimes.png)
+A plot from the sentiment analysis is then tweeted to the PlotBot5 twitter feed. 
 
 
 Hints, requirements, and considerations:
